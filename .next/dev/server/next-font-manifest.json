@@ -1,0 +1,11 @@
+{
+  "app": {
+    "[project]/portfolio-website/app/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2",
+      "static/media/b8b552e8609c5636-s.p.25aba60b.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

@@ -6,7 +6,7 @@ const firaCode = Fira_Code({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Dhaval Patil | Frontend Developer",
-  description: "Creative Frontend Developer crafting beautiful, accessible, and performant web experiences.",
+  description: "",
 }
 
 export default function RootLayout({ children }) {
