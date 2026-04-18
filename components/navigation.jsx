@@ -43,7 +43,7 @@ export default function Navigation() {
             </a>
           ))}
           <a
-            href="https://drive.google.com/file/d/1-vbiiD-udRcMbIaMZJMu_hZbNpYN02NZ/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1-aLNFZSfNnF0HkHYXh-HMZYTTzssr8-_/view?usp=sharing"
             target="_blank"
             className="px-4 py-2 border border-primary text-primary rounded-lg hover:bg-primary hover:text-primary-foreground transition-all duration-200 text-sm"
           >
@@ -72,7 +72,7 @@ export default function Navigation() {
               </a>
             ))}
             <a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/1-aLNFZSfNnF0HkHYXh-HMZYTTzssr8-_/view?usp=sharing"
               className="px-4 py-2 border border-primary text-primary rounded-lg hover:bg-primary hover:text-primary-foreground transition-all duration-200 text-center"
             >
               Resume
